@@ -22,6 +22,7 @@
         "class": "@ClassSweetkin",
         "unlock_level": 0,
         "targets_room": true,
+        "targetless": true,
         "effects": [
           {
             "id": "@SpaEffect"

@@ -52,8 +52,8 @@
           "upgrade_tree": [
             [ "@upg_security1", "@upg_security2", "@upg_security3" ],
             [ "@upg_paradox1", "@upg_paradox2", "@upg_paradox3" ],
-            [ "@upg_catering1","@upg_catering2","@upg_catering3" ],
-            [ "@upg_hostess1","@upg_hostess2","@upg_hostess3" ]
+            [ "@upg_catering1", "@upg_catering2", "@upg_catering3" ],
+            [ "@upg_hostess1", "@upg_hostess2", "@upg_hostess3" ]
           ],
           "icon": "@icon_sally",
           "locked_icon": "@icon_locked",
@@ -164,15 +164,15 @@
       "id": "Sweetkin_Disabled",
       "path": "textures/ClanAssets/Sweetkin_Disabled.png"
     },
-	{
+    {
       "id": "Sweetkin_Enabled",
       "path": "textures/ClanAssets/Sweetkin_Enabled.png"
     },
-	{
+    {
       "id": "Sweetkin_Frozen",
       "path": "textures/ClanAssets/Sweetkin_Frozen.png"
     },
-	{
+    {
       "id": "Sweetkin_VisitedDisabled",
       "path": "textures/ClanAssets/Sweetkin_VisitedDisabled.png"
     },
@@ -200,5 +200,5 @@
       "id": "icon_locked",
       "path": "textures/icon_locked.png"
     }
-  ]
+  ],
 }
